@@ -23,6 +23,7 @@ yarn-error.log*
 *$py.class
 *.so
 .Python
+db.sqlite3
 env/
 build/
 develop-eggs/
