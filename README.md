@@ -1,9 +1,10 @@
 # django-vuejs
 Django + Vue.js で簡単なWEBアプリケーションを作成する
+![title](https://github.com/mila411/django-vuejs/blob/master/title.png)
 
-https://nmomos.com/tips/python/2019/07/18/django-vuejs-1/
-https://nmomos.com/tips/python/2019/07/18/django-vuejs-2/
-https://nmomos.com/tips/python/2019/07/18/django-vuejs-3/
+[DjangoとVue.jsで作るWEBアプリ（その1: 設定編）](https://nmomos.com/tips/python/2019/07/17/django-vuejs-1/ "DjangoとVue.jsで作るWEBアプリ（その1: 設定編）")  
+[DjangoとVue.jsで作るWEBアプリ（その2: 認証機能編）](https://nmomos.com/tips/python/2019/07/18/django-vuejs-2/ "DjangoとVue.jsで作るWEBアプリ（その2: 認証機能編）")  
+[DjangoとVue.jsで作るWEBアプリ（その3: API実装編）](https://nmomos.com/tips/python/2019/07/19/django-vuejs-3/ "DjangoとVue.jsで作るWEBアプリ（その3: API実装編）")  
 
 
 # 実行方法
