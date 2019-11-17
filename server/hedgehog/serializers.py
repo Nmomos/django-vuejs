@@ -23,7 +23,7 @@ class HedgeHogSerializer(serializers.ModelSerializer):
     """ A serializer for the HedgeHog Model """
     class Meta:
         model = HedgeHog
-        fields = ('id', 'name', 'pile_color', 'stars', 'description', 'created')
+        fields = ('id', 'name', 'image', 'pile_color', 'stars', 'description', 'created')
 
 
 class CommentSerializer(serializers.ModelSerializer):

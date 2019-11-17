@@ -15,6 +15,7 @@ class PileColor(models.Model):
 class HedgeHog(models.Model):
     """ The Model to hold a list of Hedgehogs """
     name = models.CharField(max_length=250)
+    image = models.ImageField(upload_to='myapp', null=True)
     pile_color = models.ForeignKey('PileColor', on_delete=models.CASCADE)
     stars = models.FloatField(default=1.0)
     description = models.TextField()
